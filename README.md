@@ -11,3 +11,12 @@
   <img src="https://img.shields.io/badge/C++-%233776AB.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp
 </div>
+
+<br>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=mtur42)](https://solved.ac/mtur42)
+
+<br>
+
+<img src="http://mazandi.herokuapp.com/api?handle=mtur42&theme=warm"/>
