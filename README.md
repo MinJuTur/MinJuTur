@@ -11,8 +11,8 @@
 
 <br>
 
-<h3 align="leftr">🛠 Tools 🛠</h3>
-<div align="center">
+<h3 align="leftr">Tools</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />&nbsp
@@ -35,7 +35,7 @@
 
 <br>
 
-<h3 align="left">🛠 Solved.ac 🛠</h3>
+<h3 align="left">Solved.ac</h3>
 <div align="left">
 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mtur42)](https://solved.ac/mtur42)
@@ -44,7 +44,7 @@
 
 <br>
 
-<h3 align="left">🛠 GitHub Status 🛠</h3>
+<h3 align="left">GitHub Status</h3>
 <div align="left"> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJuTur&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
