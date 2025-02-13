@@ -10,7 +10,7 @@
 
 <br>
 
-<h3 align="leftr">Tools</h3>
+<h3 align="leftr">Languages and Tools:</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp
@@ -18,14 +18,14 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="40" />
 </div>
 
 <br>
 
-<h3 align="leftr">Studying</h3>
+<h3 align="leftr">Studying:</h3>
 <div align="left">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/C++-%233776AB.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
