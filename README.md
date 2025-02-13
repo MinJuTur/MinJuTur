@@ -15,8 +15,5 @@
 <br>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=mtur42)](https://solved.ac/mtur42)
-
-<br>
-
-<img src="http://mazandi.herokuapp.com/api?handle=mtur42&theme=warm"/>
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=mtur42)](https://solved.ac/mtur42)&nbsp
+<img src="http://mazandi.herokuapp.com/api?handle=mtur42&theme=warm"/>&nbsp
