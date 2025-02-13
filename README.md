@@ -14,9 +14,19 @@
 
 <br>
 
+<h3 align="center">🛠 Solved.ac 🛠</h3>
 <div align="center">
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=mtur42)](https://solved.ac/mtur42)
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=mtur42)](https://solved.ac/mtur42)
 <img src="http://mazandi.herokuapp.com/api?handle=mtur42&theme=warm"/>
 </div>
+
+<br>
+
+<h3 align="center">🛠 GitHub Status 🛠</h3>
+<div align="center"> 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinJuTur&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<br>
